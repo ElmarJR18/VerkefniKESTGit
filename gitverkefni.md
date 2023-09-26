@@ -35,6 +35,5 @@ Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 deserunt sit aliqua eiusmod irure aliquip
 
 ## Occaecat amet labore
-Slóð á mynd: https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg
-
+![Mynd](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 Video id: HUBNt18RFbo
