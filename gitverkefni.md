@@ -24,7 +24,13 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ### Eiusmod tempor et fugiat
 
-HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
+``` mermaid
+pie showdata
+    title Data of the data
+    "middle": 12
+    "trash": 12
+    "linux": 20
+```
 
 ### Dolore ut velit
 
