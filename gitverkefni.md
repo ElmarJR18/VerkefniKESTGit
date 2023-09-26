@@ -26,10 +26,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ``` mermaid
 pie showdata
-    title Data of the data
-    "middle": 12
-    "trash": 12
-    "linux": 20
+    title Tölur úr töflunni hér að ofan
+    "Miðja": 12
+    "Vinstri": 33
+    "Hægri": 55
 ```
 
 ### Dolore ut velit
